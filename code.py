@@ -1,5 +1,7 @@
 # function to return the factorial of a number
 # Add comments
+
+#This function calculates the factorial for the input number
 def factorial(num):
     ans = 1
     if num < 0:
